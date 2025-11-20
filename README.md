@@ -14,59 +14,63 @@
   <img src="https://img.shields.io/github/stars/sheldon123z?label=Total%20Stars&style=for-the-badge&color=yellow&affiliations=OWNER" alt="GitHub Stars" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/sheldon123z/sheldon123z/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
+<br>
 
 ## 👨‍🎓 About Me
+
+<table>
+<tr>
+<td width="50%">
 
 ```python
 class PhDStudent:
     def __init__(self):
         self.name = "Sheldon"
-        self.university = "Xi'an Jiaotong University (XJTU)"
+        self.university = "XJTU"
         self.degree = "PhD Student"
-        self.interests = ["Research", "Machine Learning", "Open Source"]
-        self.current_status = "Exploring new ideas 🚀"
+        self.focus = [
+            "Machine Learning",
+            "Research",
+            "Open Source"
+        ]
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's connect and collaborate!")
-
-me = PhDStudent()
-me.say_hi()
+        return "Let's connect! 🚀"
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</td>
+<td width="50%">
 
-## 🛠️ Tech Stack & Skills
+### 🎯 Quick Facts
+
+- 🏫 Studying at **Xi'an Jiaotong University**
+- 🔬 Research in **AI/ML**
+- 💻 Passionate about **Open Source**
+- 📧 **zxd_xjtu@stu.xjtu.edu.cn**
+- 🌱 Currently exploring new ideas
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,go,rust,typescript,html,css,sql&theme=dark&perline=10" alt="Programming Languages" />
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,go&theme=dark" alt="Languages" />
 
-### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,vue,django,flask,fastapi,spring,express&theme=dark&perline=10" alt="Frameworks" />
+**Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,docker,kubernetes,git,linux&theme=dark" alt="Frameworks" />
 
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,bash,vim,vscode,nginx&theme=dark&perline=10" alt="Tools" />
-
-### ☁️ Cloud & Databases
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,mysql,postgresql,redis,elasticsearch,firebase,supabase&theme=dark&perline=10" alt="Cloud & Databases" />
+**Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,aws,gcp&theme=dark" alt="Databases" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheldon123z&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+<br>
 
 ## 📊 GitHub Statistics
 
@@ -75,25 +79,37 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon123z&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sheldon123z&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E96&currStreakLabel=00F7FF" alt="GitHub Streak" />
 </div>
+
+<br>
+
+## 🏆 GitHub Highlights
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sheldon123z&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<details>
+<summary>📈 Detailed Contribution Graph</summary>
+<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheldon123z&theme=radical" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheldon123z&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=7B2FF7&point=F107FF" alt="Contribution Graph" />
+  <img src="https://github.com/sheldon123z/sheldon123z/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 🌟 Contribution Heatmap
+</details>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/sheldon123z" alt="GitHub Contribution Chart" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+<br>
 
 ## 🎯 Recent Activity
 
@@ -101,60 +117,32 @@ me.say_hi()
 <!-- This section will be automatically updated by GitHub Actions -->
 <!--END_SECTION:activity-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-
-## 🎨 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sheldon123z&theme=radical" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheldon123z&theme=radical" alt="Repos per Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheldon123z&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheldon123z&theme=radical" alt="Stats" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+<br>
 
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheldon123z)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@xjtu.edu.cn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxd_xjtu@stu.xjtu.edu.cn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
-</div>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-
-## 💡 Random Dev Quote
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:F107FF&height=120&section=footer" alt="Footer Wave" />
 </div>
 
 <div align="center">
-  <h3>⭐️ Show some love by starring my repositories!</h3>
-  <p><i>💬 "Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!;Happy+coding!+%F0%9F%9A%80" alt="Footer Typing SVG" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://profile-counter.glitch.me/sheldon123z/count.svg" alt="Visit Count" />
+  <sub>⭐️ Show some love by starring my repositories! | Built with ❤️ and ☕</sub>
 </div>
