@@ -1,103 +1,154 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:F107FF&height=200&section=header&text=Sheldon's%20GitHub&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header" />
+  <!-- 顶部动态 Header，使用渐变色 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=220&section=header&text=Sheldon's%20Lab&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=PhD%20Student%20@%20XJTU%20|%20AI%20Researcher&descFontSize=20&descAlignY=65" alt="Header" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Sheldon;PhD+Student+at+XJTU;Researcher+%7C+Developer+%7C+Innovator;AI+%7C+ML+%7C+Open+Source;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <!-- 打字机效果简介 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B+I'm+Sheldon;PhD+Student+at+Xi'an+Jiaotong+Univ.;Researching+AI+%26+Machine+Learning;Building+Open+Source+Software;Welcome+to+my+digital+garden!" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheldon123z&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sheldon123z?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sheldon123z?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</p>
+<div align="center">
+  <!-- 基础数据徽章 -->
+  <a href="https://visitorbadge.io/status?path=sheldon123z">
+    <img src="https://api.visitorbadge.io/api/visitors?path=sheldon123z&label=Profile%20Views&labelColor=%237B2FF7&countColor=%23697689&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/sheldon123z?tab=followers">
+    <img src="https://img.shields.io/github/followers/sheldon123z?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/sheldon123z?label=Total%20Stars&style=for-the-badge&color=F107FF&logo=apachespark&affiliations=OWNER" alt="GitHub Stars" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/sheldon123z/sheldon123z/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
+<br>
 
 ## 👨‍🎓 About Me
 
+<!-- 使用表格进行双栏布局：左侧代码，右侧研究兴趣 -->
+<table>
+<tr>
+<td width="60%">
+
 ```python
-class PhDStudent:
+class Researcher:
     def __init__(self):
         self.name = "Sheldon"
-        self.university = "Xi'an Jiaotong University (XJTU)"
-        self.degree = "PhD Student"
-        self.interests = ["Research", "Machine Learning", "Open Source"]
-        self.current_status = "Exploring new ideas 🚀"
+        self.role = "PhD Student @ XJTU"
+        self.email = "zxd_xjtu@stu.xjtu.edu.cn"
+        self.focus = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision"
+        ]
+        self.status = "Publishing Papers 📄"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and collaborate!")
+    def goal(self):
+        return "Turning coffee into code & papers ☕→💻"
 
-me = PhDStudent()
-me.say_hi()
+    def current_mood(self):
+        return "🚀 Exploring new frontiers!"
+
+me = Researcher()
+print(me.goal())
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</td>
+<td width="40%">
+  <div align="center">
+    <br/>
+    <h3>🔬 Research Interests</h3>
+    <br/>
+    <p>
+      <b>🖼️ Computer Vision</b><br/>
+      <sub>Image/Video Understanding</sub>
+      <br/><br/>
+      <b>🗣️ Natural Language Processing</b><br/>
+      <sub>Language Models & Understanding</sub>
+      <br/><br/>
+      <b>🎨 Generative AI</b><br/>
+      <sub>Diffusion Models & GANs</sub>
+      <br/><br/>
+      <b>⚙️ System Optimization</b><br/>
+      <sub>Efficient AI Systems</sub>
+    </p>
+  </div>
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack & Skills
+<br>
 
+## 🛠️ Tech Stack
+
+<!-- 技能栈分类展示，使用表格更加清晰 -->
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,go,rust,typescript,html,css,sql&theme=dark&perline=10" alt="Programming Languages" />
-
-### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,vue,django,flask,fastapi,spring,express&theme=dark&perline=10" alt="Frameworks" />
-
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,bash,vim,vscode,nginx&theme=dark&perline=10" alt="Tools" />
-
-### ☁️ Cloud & Databases
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,mysql,postgresql,redis,elasticsearch,firebase,supabase&theme=dark&perline=10" alt="Cloud & Databases" />
+<table>
+<tr>
+  <th width="200px">Category</th>
+  <th>Technologies</th>
+</tr>
+<tr>
+  <td align="center"><b>Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=python,cpp,java,go,js,ts,matlab,r&theme=dark" height="45" /></td>
+</tr>
+<tr>
+  <td align="center"><b>AI / ML</b></td>
+  <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" height="45" /> <img src="https://www.google.com/s2/favicons?domain=wandb.ai&sz=45" height="45" alt="wandb" /> <img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=45" height="45" alt="huggingface" /></td>
+</tr>
+<tr>
+  <td align="center"><b>Backend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=flask,fastapi,django,docker,kubernetes,redis,mysql,postgres&theme=dark" height="45" /></td>
+</tr>
+<tr>
+  <td align="center"><b>Tools</b></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,linux,vim,vscode,latex&theme=dark" height="45" /></td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheldon123z&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheldon123z&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon123z&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+
+<!-- GitHub 统计卡片 -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sheldon123z&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon123z&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+
+<br><br>
+
+<!-- 连续打卡记录 -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sheldon123z&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E96&currStreakLabel=00F7FF" alt="GitHub Streak" />
+
+<br><br>
+
+<!-- 详细贡献图 -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sheldon123z&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=7B2FF7&point=F107FF" alt="Contribution Graph" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheldon123z&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E96&currStreakLabel=00F7FF" alt="GitHub Streak" />
-</div>
+<br>
+
+<details>
+<summary>📈 More Detailed Stats</summary>
+<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheldon123z&theme=radical" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheldon123z&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=7B2FF7&point=F107FF" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sheldon123z&theme=radical" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheldon123z&theme=radical" alt="Repos per Language" />
 </div>
 
-## 🌟 3D Contribution Graph
+</details>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/sheldon123z" alt="GitHub Contribution Chart" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/sheldon123z">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sheldon123z&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+<br>
 
 ## 🎯 Recent Activity
 
@@ -105,60 +156,35 @@ me.say_hi()
 <!-- This section will be automatically updated by GitHub Actions -->
 <!--END_SECTION:activity-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+<br>
 
-## 🎨 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sheldon123z&theme=radical" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheldon123z&theme=radical" alt="Repos per Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheldon123z&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheldon123z&theme=radical" alt="Stats" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-
-## 📫 Connect With Me
+## 📫 Connect & Support
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheldon123z)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@xjtu.edu.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheldon123z)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxd_xjtu@stu.xjtu.edu.cn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID)
 
 </div>
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-
-## 💡 Random Dev Quote
+<br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
+<br>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:F107FF&height=120&section=footer" alt="Footer Wave" />
+  <!-- 底部波浪 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=100&section=footer" width="100%" />
 </div>
 
 <div align="center">
-  <h3>⭐️ Show some love by starring my repositories!</h3>
-  <p><i>💬 "Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!;Happy+coding!+%F0%9F%9A%80" alt="Footer Typing SVG" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=sheldon123z&icon=0&color=0" alt="Visit Count" />
+  <sub>⭐️ Show some love by starring my repositories! | Built with ❤️ and ☕ | © 2025 Sheldon</sub>
 </div>
