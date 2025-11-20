@@ -84,12 +84,28 @@ print(me.goal())
 <!-- 技能栈分类展示，使用表格更加清晰 -->
 <div align="center">
 
-| Category | Technologies |
-|:--------:|:-------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,java,go,js,ts,matlab,r&theme=dark" height="35" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" height="35" /> <img src="https://www.google.com/s2/favicons?domain=wandb.ai&sz=35" height="35" alt="wandb" /> <img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=35" height="35" alt="huggingface" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=flask,fastapi,django,docker,kubernetes,redis,mysql,postgres&theme=dark" height="35" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vim,vscode,latex&theme=dark" height="35" /> |
+<table>
+<tr>
+  <th width="200px">Category</th>
+  <th>Technologies</th>
+</tr>
+<tr>
+  <td align="center"><b>Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=python,cpp,java,go,js,ts,matlab,r&theme=dark" height="45" /></td>
+</tr>
+<tr>
+  <td align="center"><b>AI / ML</b></td>
+  <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" height="45" /> <img src="https://www.google.com/s2/favicons?domain=wandb.ai&sz=45" height="45" alt="wandb" /> <img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=45" height="45" alt="huggingface" /></td>
+</tr>
+<tr>
+  <td align="center"><b>Backend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=flask,fastapi,django,docker,kubernetes,redis,mysql,postgres&theme=dark" height="45" /></td>
+</tr>
+<tr>
+  <td align="center"><b>Tools</b></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,linux,vim,vscode,latex&theme=dark" height="45" /></td>
+</tr>
+</table>
 
 </div>
 
@@ -110,8 +126,8 @@ print(me.goal())
 </tr>
 </table>
 
-<!-- 连续打卡记录 -->
-<img src="https://streak-stats.demolab.com/?user=sheldon123z&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E96&currStreakLabel=00F7FF" alt="GitHub Streak" />
+<!-- 连续打卡记录 - 使用备用服务器 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheldon123z&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E96&currStreakLabel=00F7FF" alt="GitHub Streak" />
 
 </div>
 
@@ -120,7 +136,7 @@ print(me.goal())
 ## 🏆 Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheldon123z&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheldon123z&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <br>
