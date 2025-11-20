@@ -7,9 +7,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheldon123z&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://visitorbadge.io/status?path=sheldon123z">
+    <img src="https://api.visitorbadge.io/api/visitors?path=sheldon123z&label=Profile%20Views&labelColor=%2337d67a&countColor=%23697689&style=for-the-badge" alt="Profile Views" />
+  </a>
   <img src="https://img.shields.io/github/followers/sheldon123z?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sheldon123z?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/sheldon123z?label=Total%20Stars&style=for-the-badge&color=yellow&affiliations=OWNER" alt="GitHub Stars" />
 </p>
 
 <p align="center">
@@ -69,12 +71,12 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheldon123z&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon123z&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheldon123z&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon123z&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheldon123z&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E96&currStreakLabel=00F7FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sheldon123z&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E96&currStreakLabel=00F7FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -82,19 +84,13 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheldon123z&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=7B2FF7&point=F107FF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheldon123z&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=7B2FF7&point=F107FF" alt="Contribution Graph" />
 </div>
 
-## 🌟 3D Contribution Graph
+## 🌟 Contribution Heatmap
 
 <div align="center">
   <img src="https://ghchart.rshah.org/00F7FF/sheldon123z" alt="GitHub Contribution Chart" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/sheldon123z">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sheldon123z&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
-  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
@@ -160,5 +156,5 @@ me.say_hi()
 
 <div align="center">
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=sheldon123z&icon=0&color=0" alt="Visit Count" />
+  <img src="https://profile-counter.glitch.me/sheldon123z/count.svg" alt="Visit Count" />
 </div>
