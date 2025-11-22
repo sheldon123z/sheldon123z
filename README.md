@@ -54,7 +54,7 @@ print(me.goal())
 ```
 
 </td>
-<td width="40%">
+<td width="60%">
   <div align="center">
     <br/>
     <h3>🔬 Research Interests</h3>
