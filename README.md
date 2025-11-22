@@ -40,7 +40,8 @@ class Researcher:
         self.focus = [
             "Machine Learning",
             "Deep Learning",
-            "Computer Vision"
+            "Reinforcement Learning",
+            "LLMs"
         ]
         self.status = "Publishing Papers 📄"
 
