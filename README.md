@@ -28,7 +28,7 @@
 <!-- 使用表格进行双栏布局：左侧代码，右侧研究兴趣 -->
 <table>
 <tr>
-<td width="30%">
+<td width="60%">
 
 ```python
 class Researcher:
