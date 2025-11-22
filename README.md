@@ -156,7 +156,7 @@ print(me.goal())
 ## 🎯 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [sheldon123z/sheldon123z](https://github.com/sheldon123z/sheldon123z)
+1. 💪 Opened PR [#1](undefined) in [sheldon123z/Zotero-Notion-Paper-Flow](https://github.com/sheldon123z/Zotero-Notion-Paper-Flow)
 <!--END_SECTION:activity-->
 
 <br>
