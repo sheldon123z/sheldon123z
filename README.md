@@ -156,7 +156,7 @@ print(me.goal())
 ## 🎯 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#6](undefined) in [sheldon123z/Zotero-Notion-Paper-Flow](https://github.com/sheldon123z/Zotero-Notion-Paper-Flow)
+1. 🚀 Published release [Invoice OCR v1.1.1 - Critical Fix](https://github.com/sheldon123z/invoice-ocr/releases/tag/v1.1.1) in [sheldon123z/invoice-ocr](https://github.com/sheldon123z/invoice-ocr)
 <!--END_SECTION:activity-->
 
 <br>
