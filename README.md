@@ -156,7 +156,7 @@ print(me.goal())
 ## 🎯 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Invoice OCR v1.1.1 - Critical Fix](https://github.com/sheldon123z/invoice-ocr/releases/tag/v1.1.1) in [sheldon123z/invoice-ocr](https://github.com/sheldon123z/invoice-ocr)
+1. ❗ Opened issue [#91](https://github.com/DayuanJiang/next-ai-draw-io/issues/91) in [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 <!--END_SECTION:activity-->
 
 <br>
