@@ -114,44 +114,6 @@ print(me.goal())
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub 统计卡片 -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sheldon123z&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldon123z&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
-
-<br><br>
-
-<!-- 连续打卡记录 -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sheldon123z&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E96&currStreakLabel=00F7FF" alt="GitHub Streak" />
-
-<br><br>
-
-<!-- 详细贡献图 -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sheldon123z&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=7B2FF7&point=F107FF" alt="Contribution Graph" />
-
-</div>
-
-<br>
-
-<details>
-<summary>📈 More Detailed Stats</summary>
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheldon123z&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sheldon123z&theme=radical" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheldon123z&theme=radical" alt="Repos per Language" />
-</div>
-
-</details>
-
-<br>
 
 ## 🎯 Recent Activity
 
