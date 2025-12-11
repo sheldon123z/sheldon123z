@@ -118,7 +118,7 @@ print(me.goal())
 ## 🎯 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#91](https://github.com/DayuanJiang/next-ai-draw-io/issues/91) in [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
+1. 🗣 Commented on [#91](https://github.com/DayuanJiang/next-ai-draw-io/issues/91#issuecomment-3640142275) in [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 <!--END_SECTION:activity-->
 
 <br>
