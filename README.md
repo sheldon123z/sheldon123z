@@ -118,7 +118,7 @@ print(me.goal())
 ## 🎯 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/DayuanJiang/next-ai-draw-io/issues/91#issuecomment-3640142275) in [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
+1. ❌ Closed PR [#12034](undefined) in [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
 <!--END_SECTION:activity-->
 
 <br>
