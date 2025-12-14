@@ -118,7 +118,7 @@ print(me.goal())
 ## 🎯 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12034](undefined) in [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
+1. ❌ Closed PR [#12034](https://github.com/OpenHands/OpenHands/pull/12034) in [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
 <!--END_SECTION:activity-->
 
 <br>
