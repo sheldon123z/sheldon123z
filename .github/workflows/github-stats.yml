@@ -2,8 +2,8 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    # 每天运行一次
-    - cron: '0 1 * * *'
+    # 每天 01:00 UTC 运行
+    - cron: "0 1 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,18 +17,28 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
 
       - name: Generate GitHub Stats with Private Repos
-        uses: jstrieb/github-stats@master
-        with:
-          ACCESS_TOKEN: ${{ secrets.STATS_TOKEN }}
-          EXCLUDED: "sheldon123z"
+        run: |
+          git clone https://github.com/jstrieb/github-stats.git
+          cd github-stats
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          ACCESS_TOKEN=${{ secrets.STATS_TOKEN }} \
+          EXCLUDED="sheldon123z" \
+          python generate.py
 
       - name: Commit and push stats
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-staged --quiet || git commit -m "📊 Update GitHub stats"
+          git diff --staged --quiet || git commit -m "📊 Update GitHub stats"
           git push
