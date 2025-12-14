@@ -2,7 +2,6 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    # 每天 01:00 UTC 运行
     - cron: "0 1 * * *"
   workflow_dispatch:
   push:
@@ -17,23 +16,29 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
       - name: Generate GitHub Stats with Private Repos
+        env:
+          ACCESS_TOKEN: ${{ secrets.STATS_TOKEN }} # 你现有的 secret 名叫 STATS_TOKEN，就在这里映射成 ACCESS_TOKEN
+          EXCLUDED: "sheldon123z"
         run: |
-          git clone https://github.com/jstrieb/github-stats.git
+          set -e
+          git clone --depth 1 https://github.com/jstrieb/github-stats.git
           cd github-stats
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
-          ACCESS_TOKEN=${{ secrets.STATS_TOKEN }} \
-          EXCLUDED="sheldon123z" \
-          python generate.py
+
+          # 关键：这个项目的入口脚本叫 generate_images.py（不是 generate.py）
+          python generate_images.py
+
+          # 把生成结果拷贝回当前仓库工作目录，才能被后面的 git add 提交
+          mkdir -p "$GITHUB_WORKSPACE/generated"
+          cp -r generated/* "$GITHUB_WORKSPACE/generated/"
 
       - name: Commit and push stats
         run: |
