@@ -121,6 +121,18 @@ print(me.goal())
 1. ❌ Closed PR [#12034](https://github.com/OpenHands/OpenHands/pull/12034) in [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
 <!--END_SECTION:activity-->
 
+<!-- Contribution Snake: uses .github/workflows/snake.yml output (output branch / dist/) -->
+<p align="center">
+  🐍 动态贡献蛇形图：展示你这一年的开源活跃轨迹！
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheldon123z/sheldon123z/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <img src="https://raw.githubusercontent.com/sheldon123z/sheldon123z/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width:100%;height:auto;">
+  </picture>
+</p>
+
 <br>
 
 ## 📫 Connect & Support
