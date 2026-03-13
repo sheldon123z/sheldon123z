@@ -35,7 +35,7 @@
 class Researcher:
     def __init__(self):
         self.name = "Sheldon"
-        self.role = "PhD Student @ XJTU"
+        self.role = "PhD & Assistant Professor @ XJTU"
         self.email = "zxd_xjtu@stu.xjtu.edu.cn"
         self.focus = [
             "Machine Learning",
